@@ -1,2 +1,6 @@
 # HCE-BNN
 A physic data-driven method for HCP
+
+long time ago...
+maybe it doesn't have any value anymore.
+i am not sure whether the code works well or not...
